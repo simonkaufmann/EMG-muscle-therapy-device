@@ -3,4 +3,4 @@ Firmware for EMG muscle therapy device (project at Secondary College HTL Anichst
 
 The device is developed for practicing the muscles of the upper arm for therapy purpose.
 
-For a description look at manual/manual_emg_muscle_therapy_device.pdf
+Find a description [here](https://github.com/simonkaufmann/EMG-muscle-therapy-device/blob/master/manual/manual_emg_muscle_therapy_device.pdf)
