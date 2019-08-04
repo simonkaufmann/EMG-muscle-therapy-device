@@ -11,6 +11,7 @@ Finished device:
 <img src="manual/pictures/setup.png" width="50%">
 
 Software:  
+
 <img src="manual/pictures/software1.png" width="50%">
 
 <img src="manual/pictures/software1.png" width="50%">
