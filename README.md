@@ -14,7 +14,7 @@ Find a description [here](https://github.com/simonkaufmann/EMG-muscle-therapy-de
 
 <img src="manual/pictures/software1.png" width="50%">
 
-<img src="manual/pictures/software1.png" width="50%">
+<img src="manual/pictures/software2.png" width="50%">
 
 #### Electrodes attached
 <img src="manual/pictures/attached.png" width="50%">
