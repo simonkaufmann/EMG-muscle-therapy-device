@@ -7,8 +7,16 @@ Find a description [here](https://github.com/simonkaufmann/EMG-muscle-therapy-de
 
 ## Pictures
 
+Finished device:  
 <img src="manual/pictures/setup.png" width="50%">
+
+Software:  
+<img src="manual/pictures/software1.png" width="50%">
+
+<img src="manual/pictures/software1.png" width="50%">
+
+Electrodes attached:  
 <img src="manual/pictures/attached.png" width="50%">
-<img src="manual/pictures/software1.png" width="50%">
-<img src="manual/pictures/software1.png" width="50%">
+
+Device connections:  
 <img src="manual/pictures/labels.png" width="50%">
